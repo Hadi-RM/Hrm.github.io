@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+
+.success {
+  background-color: rgb(165, 209, 218);
+  color: rgb(58, 73, 76);
+}
+.success2{
+  background-color: rgb(152,198,255);
+}
+
+
+.successtext{
+  color: rgb(58, 73, 76);
+}
+
+.touch{
+  background-color: rgb(245,249,212);
+}
+
+.positive {
+  background-color: rgb(223, 182, 198);
+}
+
+.positive2{
+  background-color: rgb(255,198,152);
+}
+
+
+
+.violet{
+  border-color:  #6474b4;
+  
+}
+
+
+.touch span{
+  color:#6474b4;
+ font-size: 46px;
+}
+
+.touch button{
+  background-color: #6474b4;
+  
+}
+
+@media (max-width: 768px) {
+  .avator img{
+   width: 20rem;
+   height: 20rem;
+  
+  }
+}
+
+@media (min-width: 992px) {
+  .avator img{
+  margin-top:5rem;
+  margin-right: 10rem;
+  
+  }
+}
+
+
+width="460" height="300"
+
+

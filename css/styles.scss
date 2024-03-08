@@ -1,0 +1,46 @@
+@import "~bootstrap/scss/bootstrap";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: "PT Sans", sans-serif;
+}
+
+.success {
+  background-color: rgb(165, 209, 218);
+  color: rgb(58, 73, 76);
+}
+
+.success2{
+  background-color:rgb(115,166,253);
+}
+
+.successtext{
+  color: rgb(58, 73, 76);
+}
+
+.touch{
+    background-color: rgb(245,249,212);
+}
+
+.positive {
+  background-color: rgb(223, 182, 198);
+}
+
+.touch h2{
+  color:#6474b4;
+ font-size: 44px;
+}
+
+
+.violet {
+  border-color:  #6474b4;
+ 
+  
+}
+
+
+
+
